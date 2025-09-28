@@ -43,7 +43,7 @@ orientation = portrait
 android.api = 34
 
 # (int) أقل واجهة برمجة تطبيقات يدعمها تطبيقك
-android.minapi = 23
+android.minapi = 24
 
 # (list) أذونات أندرويد المطلوبة (Permissions)
 # تمت إضافة الأذونات اللازمة لتشغيل التطبيق بشكل صحيح
@@ -84,3 +84,4 @@ log_level = 2
 
 # (int) التحذير عند التشغيل بصلاحيات root
 warn_on_root = 1
+
